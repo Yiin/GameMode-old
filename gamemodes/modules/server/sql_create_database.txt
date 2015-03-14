@@ -1,0 +1,28 @@
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+CREATE TABLE IF NOT EXISTS `chars` (
+  `uid` int(11) NOT NULL AUTO_INCREMENT COMMENT 'Veikëjo unikalus id',
+  `user_id` int(11) NOT NULL COMMENT 'Þaidëjo id',
+  `name` varchar(24) NOT NULL COMMENT 'Veikëjo vardas',
+  `health` float NOT NULL DEFAULT '50' COMMENT 'Veikëjo sveikata',
+  `max_health` float NOT NULL DEFAULT '50' COMMENT 'Veikëjo pilnos sveikatos riba',
+  `default_skin` int(10) unsigned NOT NULL COMMENT 'Veikëjo numatytoji iðvaizda',
+  `available_skins` varchar(300) NOT NULL COMMENT 'Veikëjo galimos iðvaizdos',
+  `current_skin` int(11) NOT NULL COMMENT 'Veikëjo dabartinë iðvaizda',
+  PRIMARY KEY (`uid`),
+  UNIQUE KEY `name` (`name`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COMMENT='Þaidëjø veikëjø informacija' AUTO_INCREMENT=1 ;
+
+CREATE TABLE IF NOT EXISTS `users` (
+  `uid` int(11) NOT NULL AUTO_INCREMENT COMMENT 'Þaidëjo unikalus ID',
+  `username` varchar(24) NOT NULL COMMENT 'Prisijungimo vardas',
+  `password` varchar(150) NOT NULL COMMENT 'Slaptaþodis',
+  `last_gpci` varchar(41) NOT NULL,
+  `last_ip` int(11) NOT NULL,
+  `email` varchar(100) NOT NULL COMMENT 'Þaidëjo el. paðtas',
+  `register_date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT 'Registracijos data',
+  `logout_date` timestamp NOT NULL ON UPDATE CURRENT_TIMESTAMP COMMENT 'Paskutinio prisijungimo data',
+  PRIMARY KEY (`uid`),
+  UNIQUE KEY `username` (`username`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COMMENT='Þaidëjø prisijungimo informacija' AUTO_INCREMENT=1 ;

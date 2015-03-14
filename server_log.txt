@@ -1,0 +1,242 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC1, (C)2005-2015 SA-MP Team
+
+[06:01:38] 
+[06:01:38] Server Plugins
+[06:01:38] --------------
+[06:01:38]  Loaded 0 plugins.
+
+[06:01:38] 
+[06:01:38] Filterscripts
+[06:01:38] ---------------
+[06:01:38]   Loading filterscript 'flymode.amx'...
+[06:01:38]   Loaded 1 filterscripts.
+
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] init
+[06:01:38] Number of vehicle models: 0
+[06:01:39] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC1, (C)2005-2015 SA-MP Team
+
+[06:25:22] 
+[06:25:22] Server Plugins
+[06:25:22] --------------
+[06:25:22]  Loaded 0 plugins.
+
+[06:25:22] 
+[06:25:22] Filterscripts
+[06:25:22] ---------------
+[06:25:22]   Loading filterscript 'flymode.amx'...
+[06:25:22]   Loaded 1 filterscripts.
+
+[06:25:22] initinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinit
+[06:25:22] Number of vehicle models: 0
+[06:25:26] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC1, (C)2005-2015 SA-MP Team
+
+[06:25:31] 
+[06:25:31] Server Plugins
+[06:25:31] --------------
+[06:25:31]  Loaded 0 plugins.
+
+[06:25:31] 
+[06:25:31] Filterscripts
+[06:25:31] ---------------
+[06:25:31]   Loading filterscript 'flymode.amx'...
+[06:25:31]   Loaded 1 filterscripts.
+
+[06:25:31] initinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinitinit
+[06:25:31] Number of vehicle models: 0
+[06:25:34] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC1, (C)2005-2015 SA-MP Team
+
+[06:26:18] 
+[06:26:18] Server Plugins
+[06:26:18] --------------
+[06:26:18]  Loaded 0 plugins.
+
+[06:26:18] 
+[06:26:18] Filterscripts
+[06:26:18] ---------------
+[06:26:18]   Loading filterscript 'flymode.amx'...
+[06:26:18]   Loaded 1 filterscripts.
+
+[06:26:18] Number of vehicle models: 0
+[06:30:47] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC1, (C)2005-2015 SA-MP Team
+
+[06:31:15] 
+[06:31:15] Server Plugins
+[06:31:15] --------------
+[06:31:15]  Loaded 0 plugins.
+
+[06:31:15] 
+[06:31:15] Filterscripts
+[06:31:15] ---------------
+[06:31:15]   Loading filterscript 'flymode.amx'...
+[06:31:15]   Loaded 1 filterscripts.
+
+[06:31:15] Number of vehicle models: 0
+[06:31:32] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC1, (C)2005-2015 SA-MP Team
+
+[06:31:37] 
+[06:31:37] Server Plugins
+[06:31:37] --------------
+[06:31:37]  Loaded 0 plugins.
+
+[06:31:37] 
+[06:31:37] Filterscripts
+[06:31:37] ---------------
+[06:31:37]   Loading filterscript 'flymode.amx'...
+[06:31:37]   Loaded 1 filterscripts.
+
+[06:31:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC1, (C)2005-2015 SA-MP Team
+
+[06:31:55] 
+[06:31:55] Server Plugins
+[06:31:55] --------------
+[06:31:55]  Loaded 0 plugins.
+
+[06:31:55] 
+[06:31:55] Filterscripts
+[06:31:55] ---------------
+[06:31:55]   Loading filterscript 'flymode.amx'...
+[06:31:55]   Loaded 1 filterscripts.
+
+[06:31:55] Number of vehicle models: 0
+[06:32:01] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC1, (C)2005-2015 SA-MP Team
+
+[06:32:10] 
+[06:32:10] Server Plugins
+[06:32:10] --------------
+[06:32:10]  Loaded 0 plugins.
+
+[06:32:10] 
+[06:32:10] Filterscripts
+[06:32:10] ---------------
+[06:32:10]   Loading filterscript 'flymode.amx'...
+[06:32:10]   Loaded 1 filterscripts.
+
+[06:32:10] Number of vehicle models: 0
+[06:32:16] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-RC1, (C)2005-2015 SA-MP Team
+
+[06:32:50] 
+[06:32:50] Server Plugins
+[06:32:50] --------------
+[06:32:50]  Loaded 0 plugins.
+
+[06:32:50] 
+[06:32:50] Filterscripts
+[06:32:50] ---------------
+[06:32:50]   Loading filterscript 'flymode.amx'...
+[06:32:50]   Loaded 1 filterscripts.
+
+[06:32:50] Number of vehicle models: 0
+[06:32:53] --- Server Shutting Down.

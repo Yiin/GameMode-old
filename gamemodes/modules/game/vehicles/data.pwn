@@ -1,0 +1,12 @@
+new Iterator:Vehicle<MAX_VEHICLES>;
+
+enum {
+	VEHICLE_STATUS_NONE,
+	VEHICLE_STATUS_ACTIVE,
+	VEHICLE_STATUS_GARAGE
+};
+
+new 
+	vehicle_Job[MAX_VEHICLES],
+	vehicle_Status[MAX_VEHICLES]
+;

@@ -1,0 +1,1530 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va_",
+				"va_args"
+			],
+			[
+				"inc",
+				"include	#include <…>"
+			],
+			[
+				"cache_row",
+				"cache_get_row_count"
+			],
+			[
+				"format",
+				"mysql_format"
+			],
+			[
+				"OnGameMode",
+				"OnGameModeExit"
+			],
+			[
+				"e",
+				"edge_left"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"COLOR_",
+				"COLOR_GENERIC_ERROR"
+			],
+			[
+				"COLOR_GENE",
+				"COLOR_GENERIC_INFO"
+			],
+			[
+				"float",
+				"floatstr"
+			],
+			[
+				"db_get_field",
+				"db_get_field_assoc"
+			],
+			[
+				"db_get_fie",
+				"db_get_field_assoc"
+			],
+			[
+				"Destr",
+				"DestroyVehicle"
+			],
+			[
+				"Send",
+				"SendClientMessage"
+			],
+			[
+				"call",
+				"CallRemoteFunction"
+			],
+			[
+				"MAX_",
+				"MAX_VEHICLES"
+			],
+			[
+				"WeaponNameTo",
+				"WeaponNameToModelID"
+			],
+			[
+				"SetPlayS",
+				"SetPlayerSkin"
+			],
+			[
+				"GetFace",
+				"GetPlayerFacingAngle"
+			],
+			[
+				"DIALOG",
+				"DIALOG_STYLE_MSGBOX"
+			],
+			[
+				"Killed",
+				"KilledPeopleByPlayer"
+			],
+			[
+				"MAX_PLA",
+				"MAX_PLAYERS"
+			],
+			[
+				"Iter",
+				"Iter_Add"
+			],
+			[
+				"COLOR_CO",
+				"COLOR_COMMAND_HELP"
+			],
+			[
+				"TextDrawDe",
+				"TextDrawDestroy"
+			],
+			[
+				"SetVe",
+				"SetVehicleVirtualWorld"
+			],
+			[
+				"stmt_bin",
+				"stmt_bind_result_field"
+			],
+			[
+				"vehicle",
+				"vehicleid"
+			],
+			[
+				"PlateNum",
+				"PlateNumber"
+			],
+			[
+				"Veh",
+				"Vehicle"
+			],
+			[
+				"FindVe",
+				"FindVehicleByNumber"
+			],
+			[
+				"PlateNumber",
+				"PlateNumberToText"
+			],
+			[
+				"INVALI",
+				"INVALID_VEHICLE_ID"
+			],
+			[
+				"FindVehi",
+				"FindVehicleByUID"
+			],
+			[
+				"AUTOIN",
+				"AUTOINCREMENT"
+			],
+			[
+				"db_get",
+				"db_get_field_int"
+			],
+			[
+				"db_fe",
+				"db_get_field_int"
+			],
+			[
+				"SetVehic",
+				"SetVehicleNumberPlate"
+			],
+			[
+				"db_row",
+				"db_num_rows"
+			],
+			[
+				"TYPE_STRING",
+				"DB::TYPE_STRING"
+			],
+			[
+				"YSI_g_sDial",
+				"YSI_g_sDialogInputText"
+			],
+			[
+				"GivePla",
+				"GivePlayerMoney"
+			],
+			[
+				"OnVehi",
+				"OnVehicleStreamIn"
+			],
+			[
+				"INVA",
+				"INVALID_VEHICLE_ID"
+			],
+			[
+				"GetPlayerVe",
+				"GetPlayerVehicleID"
+			],
+			[
+				"TextDrawSetS",
+				"TextDrawSetString"
+			],
+			[
+				"PLAYER_STA",
+				"PLAYER_STATE_DRIVER"
+			],
+			[
+				"PLAYER_STATE",
+				"PLAYER_STATE_SPAWNED"
+			],
+			[
+				"SetPlayerSki",
+				"SetPlayerSkin"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"ste",
+				"stepID"
+			],
+			[
+				"Total",
+				"TotalPrice"
+			],
+			[
+				"Iro",
+				"IroningPrice"
+			],
+			[
+				"Price",
+				"IroningPrice"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"Ir",
+				"IroningPrice"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"dry",
+				"dry-cleaning"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"prop",
+				"prop	.prop() - single"
+			],
+			[
+				"get",
+				"get	$.get()"
+			],
+			[
+				"ge",
+				"get	$.get()"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"ext",
+				"extra_info"
+			],
+			[
+				"selec",
+				"Select"
+			],
+			[
+				"aci",
+				"activeTab"
+			],
+			[
+				"key",
+				"keydown	.keydown()"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"onmou",
+				"onmouseover	Attr"
+			],
+			[
+				"pick",
+				"pick-item"
+			],
+			[
+				"inp",
+				"input_count"
+			],
+			[
+				"filter",
+				"filter	.filter()"
+			],
+			[
+				"fil",
+				"filter	.filter()"
+			],
+			[
+				"pro",
+				"prop	.prop() - single"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"active",
+				"activeTab"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"mou",
+				"mouseover	.mouseover()"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"prom",
+				"prompt"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"GetVe",
+				"GetVehiclePos"
+			],
+			[
+				"SetDyn",
+				"SetDynamicObjectMaterial"
+			],
+			[
+				"incl",
+				"include	#include <…>"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"epTD_Com",
+				"epTD_Compressed"
+			],
+			[
+				"epTD_CO",
+				"epTD_Compressed"
+			],
+			[
+				"eVehiUpgr",
+				"eVehicleUpgrade_Acc"
+			],
+			[
+				"veh",
+				"vehicleid"
+			],
+			[
+				"eVehicleUpgr",
+				"eVehicleUpgrade_Acc"
+			],
+			[
+				"OnGame",
+				"OnGameModeInit"
+			],
+			[
+				"TextDrawSetPre",
+				"TextDrawSetPreviewVehCol"
+			],
+			[
+				"eTD_Pre",
+				"eTD_PreviewVehCol"
+			],
+			[
+				"TextDrawSetPri",
+				"TextDrawSetPreviewRot"
+			],
+			[
+				"eTD_Pri",
+				"eTD_PreviewRot_X"
+			],
+			[
+				"eTD_TextS",
+				"eTD_TextSize_X"
+			],
+			[
+				"TD_Show",
+				"TD_ShowForPlayer"
+			],
+			[
+				"MAX_PLAY",
+				"MAX_PLAYERS"
+			],
+			[
+				"Tex",
+				"TextDrawDestroy"
+			],
+			[
+				"TextD",
+				"TextDrawCreate"
+			],
+			[
+				"TextDraw",
+				"TextDrawDestroy"
+			],
+			[
+				"eTD_Position",
+				"eTD_Position_X"
+			],
+			[
+				"SPECI",
+				"SPECIAL_ACTION_CUFFED"
+			],
+			[
+				"PLAYER_S",
+				"PLAYER_STATE_SPECTATING"
+			],
+			[
+				"SetPlayerCame",
+				"SetPlayerCameraLookAt"
+			],
+			[
+				"Toggle",
+				"TogglePlayerSpectating"
+			],
+			[
+				"TogglePlayer",
+				"TogglePlayerControllable"
+			],
+			[
+				"str",
+				"strcat"
+			],
+			[
+				"PLAYER_STATE_",
+				"PLAYER_STATE_ONFOOT"
+			],
+			[
+				"get_field_ass",
+				"get_field_assoc_float"
+			],
+			[
+				"garage_v",
+				"garage_VehicleHealth"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"rem",
+				"removed"
+			],
+			[
+				"di",
+				"disabled	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gamemodes/gamemode.pwn",
+			"settings":
+			{
+				"buffer_size": 1169,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server.cfg",
+			"settings":
+			{
+				"buffer_size": 318,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gamemodes/modules/player/data.pwn",
+			"settings":
+			{
+				"buffer_size": 3320,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gamemodes/modules/game/jobs/data.pwn",
+			"settings":
+			{
+				"buffer_size": 261,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gamemodes/modules/game/jobs/leader_menu.pwn",
+			"settings":
+			{
+				"buffer_size": 1073,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gamemodes/modules/player/class-selection.pwn",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gamemodes/modules/player/gamestart.pwn",
+			"settings":
+			{
+				"buffer_size": 31,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server_log.txt",
+			"settings":
+			{
+				"buffer_size": 6977,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gamemodes/modules/game/vehicles/data.pwn",
+			"settings":
+			{
+				"buffer_size": 181,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/CMessages.p",
+			"settings":
+			{
+				"buffer_size": 592,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/PBP/Text/functions.inc",
+			"settings":
+			{
+				"buffer_size": 20808,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gamemodes/lib/util.inc",
+			"settings":
+			{
+				"buffer_size": 16431,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Pawn.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"align",
+				"AlignTab: Table Mode"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"ali",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"emme",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"eemmet",
+				"Emmet: Remove Tag"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"not",
+				"Notes: List…"
+			],
+			[
+				"note",
+				"Notes: New…"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"TODO",
+				"TypeTodo: Open config: Global"
+			],
+			[
+				"Evernote: ",
+				"Evernote: List recent notes"
+			],
+			[
+				"ever",
+				"Evernote Settings: Reconfigure Authorization"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 253.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/pawno/include/colours.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/Story.p",
+		"/C/Users/Yiin/Desktop/GameMode/gamemodes/modules/server/database.pwn",
+		"/C/Users/Yiin/AppData/Roaming/Sublime Text 3/Packages/User/Pawn.sublime-build",
+		"/C/Users/Yiin/Desktop/GameMode/gamemodes/lib/util.inc",
+		"/C/Users/Yiin/Desktop/GameMode/gamemodes/lib/macros.inc",
+		"/C/Users/Yiin/Desktop/GameMode/gamemodes/lib/samp.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/PBP/Text/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/lib/util.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/lib/macros.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/lib/samp.inc",
+		"/C/Users/Yiin/Desktop/GameMode/gamemodes/modules/server/sql_create_database.txt",
+		"/C/Users/Yiin/Desktop/GameMode/gamemodes/modules/game/jobs/leader_menu.pwn",
+		"/C/Users/Yiin/Desktop/GameMode/gamemodes/modules/game/jobs/data.pwn",
+		"/C/Users/Yiin/Desktop/GameMode/gamemodes/modules/game/jobs/taxi.pwn",
+		"/C/Users/Yiin/Desktop/GameMode/gamemodes/modules/game/jobs/shared.pwn",
+		"/C/Users/Yiin/Desktop/GameMode/gamemodes/modules/player/auth.pwn",
+		"/C/Users/Yiin/Desktop/GameMode/gamemodes/modules/player/data.pwn",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/CGangs.p",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/CPlayer.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Gangs/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Gangs/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Gangs/commands.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/PBP/Users/callbacks/OnPlayerRequestClass.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/PBP/Users/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/main - Copy (2).pwn",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Inventory/commands.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Debug/commands.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/include/YSI/y_colours.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Gangs/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Inventory/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/include/sqlitei/sqlitei.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/include/sqlitei/sqlitei-tests.pwn",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Player/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Player/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Job/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/README.md",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Naftotiekis/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Naftotiekis/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Player/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/ClassSelection/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Player/callbacks/OnPlayerSpawn.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Gaisrine/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/VM/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/AppData/Roaming/Skype/My Skype Received Files/StoryOfCities_VairavimoMokykla.pwn",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/VM/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Valytojai.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Valytojai/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_VM.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Valytojai/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Turgaviete.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Turgaviete/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Turgaviete/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Taksi/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Taxi.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Taksi/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Siuksliaveziai.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Siuksliaveziai/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Siuksliaveziai/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Parduotuve/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Parduotuve/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Parduotuve.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Ligonine/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Ligonine.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Ligonine/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Garazas/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Garazas.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Garazas/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/GangBases/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Gang1.p",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Gang3.p",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Gang2.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/GangBases/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Gaisrine.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Gaisrine/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/ClassSelection/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/ClassSelection/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Picerija/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Picerija/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/MAP/MAP_Policija.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Policija/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Maps/Policija/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/compiler/pre-compiler/class.PBP.php",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/include/core.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Utilities/callbacks/OnIncomingConnection.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/include/items_and_containers.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Inventory/callbacks/OnGameModeInit.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/ClassSelection/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/server.cfg",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/main - Copy.pwn",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/include/YSI/y_dialog.inc",
+		"/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/PlayerTextDrawStreamer.p",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/compiler/pre-compiler/class.PAWNC.php",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/PBP/Text/functions (2).inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/include/rnpc.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/include/YSI_Visual/y_areas.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Player/PlayerStats/callbacks/OnPlayerUpdate.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Player/callbacks/OnPlayerUpdate.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/include/YSI_AC/y_ac@do_compiler_long_fix/hooks/callbacks/OnPlayerUpdate.pwn",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/include/fixes.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Player/PlayerStats/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Npc/commands.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/include/a_rnpc.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Npc/callbacks/OnPlayerSpawn.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Npc/callbacks/OnPlayerRequestClass.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Npc/callbacks/OnPlayerConnect.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Npc/callbacks/OnPlayerRequestSpawn.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Drugs/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Drugs/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Player/PlayerStats/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Drugs/commands.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Player/PlayerStats/callbacks/OnPlayerAccountBeingSaved.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/PBP/Users/callbacks.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Inventory/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Items/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Items/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Inventory/callbacks/OnPlayerClickTextDraw.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/PBP/Admin/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/PBP/Users/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Speedometers/BicycleSpeedo/callbacks/OnPlayerVelocityUpdate.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Speedometers/BicycleSpeedo/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/PBP/Vehicles/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Vehicle/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Vehicle/functions.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/PBP/Vehicles/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Random_Life/random-life/gamemodes/modules/Vehicle/Vehicle/header.inc",
+		"/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/Vehicle/callbacks/OnPlayerVelocityUpdate.inc"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 174.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\Yiin\\Documents\\Yiin kamputis\\Code\\PAWN\\Story_of_Cities\\PBP",
+			"",
+			"C:\\Users\\Yiin\\Documents\\Yiin kamputis\\Code\\PAWN\\Random_Life\\random-life\\",
+			"C:\\Users\\Yiin\\SA-MP\\Gamemodes\\story-of-cities\\Story of Cities",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"MSG_C_CHARTREUSE",
+			"F:1(",
+			"[playerid",
+			"[player",
+			"[",
+			"Player[playerid][ORM_ID]",
+			"player_PosX",
+			"orm_",
+			"player_",
+			"PLAYER_",
+			"player_",
+			"player_Level",
+			"Player[playerid]",
+			"dialog_Text",
+			"g_Text",
+			"va_formatex",
+			"formatex",
+			"query",
+			"\"..",
+			"@\"",
+			"ShowLogInFirst",
+			"OnPlayerCommandReceived",
+			"DEFAULT_RETURN",
+			"OnPlayerCommandReceived",
+			"CMD:",
+			"CGang",
+			"GOTO_Nariu_sarasas",
+			"db_H",
+			"X11_",
+			"MSG_C_",
+			"Sql.",
+			"Sql.query",
+			"Player.Dialog",
+			"ShowMenuForPlayer",
+			"Menu:menuid, ",
+			"ShowMenuForPlayer",
+			"Gang.",
+			"gang.",
+			"name",
+			"M:P:E(",
+			"M:P:I",
+			"Player.",
+			"Player[",
+			"Player[playerid][player.",
+			"Player[i][player.GangLeader]",
+			"Player[",
+			"Player[i][player.Gang]",
+			"this.Name",
+			"(Users)",
+			"Player.ShowGangMenu(pid)",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"Convert_from_SQL_to_Server",
+			"Player.ShowGangMenu",
+			"Sql.",
+			"Player[pid][player.Gang]",
+			"ShowIn",
+			"Sql.",
+			"ShowInformation",
+			"), QUERY_CACHED)",
+			"F:0(",
+			"Sql.",
+			"Result:",
+			"\"Sql.GANGS\"",
+			"Sql.",
+			"Player[show_to][player.Gang]",
+			"Player[pid][player.Gang]",
+			"ShowGangMenu",
+			"memset",
+			"CGang",
+			"Text.TextBuffer",
+			"DB:",
+			"Player.Name",
+			"F:0",
+			"M:P:I(pid, F:0(",
+			"%s",
+			"Player.Name(pid)",
+			"M:P:I(i, F:0(",
+			"F:0(",
+			"db_GANG_WARS",
+			"Sql.",
+			"\"Sql.GANGS\"",
+			"\"Sql.PLAYERS\"",
+			"Sql.H",
+			"CGang",
+			"; ++j",
+			"loop",
+			"(r",
+			"Sql.",
+			"get_field_assoc_int",
+			"assoc",
+			"_int",
+			"int",
+			"db_get_field_assoc",
+			"print",
+			"db_prepare",
+			"\\",
+			"db_query",
+			"db_query_format",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang.",
+			"Gang.",
+			"gang."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this.",
+			"vehicleid",
+			".Bool",
+			"Player.GetBool",
+			".GetBool",
+			"GetBool",
+			"Vehicle",
+			"type=\\\"text/javascript\\\" src=\\\"http://122.155.168.105/ads/inpage/pub/collect.js\\\"",
+			"110.0);",
+			"250.0);",
+			"80.0);",
+			", 70.0);",
+			", 50.0);",
+			"CreateDynamicObject",
+			") (",
+			"OnPlayerClickPTextdraw",
+			"hook OnPlayerClickPTD",
+			"public OnPlayerClickPTD",
+			"Public:OnPlayerClickPTD",
+			"CreateDynamicObject",
+			"OnPlayerClickPlayerTextDraw",
+			"OnPlayerClickPTD",
+			"pTD.Garage",
+			"TD.Garage",
+			"Story of Cities",
+			"Vehicle.Petrol",
+			"F:2(",
+			"F:1(",
+			"F:0("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gamemodes/gamemode.pwn",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gamemodes/modules/player/data.pwn",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2666,
+								2666
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "gamemodes/modules/game/jobs/data.pwn",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "gamemodes/modules/game/jobs/leader_menu.pwn",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1009,
+								1009
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "gamemodes/modules/player/class-selection.pwn",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "gamemodes/modules/player/gamestart.pwn",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "server_log.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "gamemodes/modules/game/vehicles/data.pwn",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Yiin/SA-MP/Gamemodes/story-of-cities/Story of Cities/gamemodes/CMessages.p",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								584
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Yiin/Documents/Yiin kamputis/Code/PAWN/Story_of_Cities/PBP/gamemodes/modules/PBP/Text/functions.inc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5256.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "gamemodes/lib/util.inc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16415,
+								16415
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4026.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 234.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 370.0
+	},
+	"project": "gamemode.sublime-project",
+	"replace":
+	{
+		"height": 106.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
